@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>10</LangVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="PlaygroundShared.Infrastructure.MongoDb" Version="1.0.10" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ServiceMe.Tickets.Infrastructure.Persistence\ServiceMe.Tickets.Infrastructure.Persistence.csproj" />
+    </ItemGroup>
+
+</Project>
