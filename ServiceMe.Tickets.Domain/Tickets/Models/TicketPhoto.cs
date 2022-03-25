@@ -6,7 +6,7 @@ public class TicketPhoto
     public string Url { get; private set; }
     public string Name { get; private set; }
 
-    public TicketPhoto(Guid id, string url, string name)
+    internal TicketPhoto(Guid id, string url, string name)
     {
         Id = id;
         Url = url;

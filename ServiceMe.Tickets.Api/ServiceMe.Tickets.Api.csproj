@@ -10,14 +10,14 @@
         <PackageReference Include="Autofac" Version="6.3.0" />
         <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
         <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.1" />
-        <PackageReference Include="PlaygroundShared.Api" Version="1.0.9" />
-        <PackageReference Include="PlaygroundShared.Application" Version="1.0.9" />
-        <PackageReference Include="PlaygroundShared.Configurations" Version="1.0.9" />
-        <PackageReference Include="PlaygroundShared.Domain" Version="1.0.9" />
-        <PackageReference Include="PlaygroundShared.Infrastructure.Core" Version="1.0.10" />
-        <PackageReference Include="PlaygroundShared.Infrastructure.EF" Version="1.0.10" />
-        <PackageReference Include="PlaygroundShared.Infrastructure.MongoDb" Version="1.0.10" />
-        <PackageReference Include="PlaygroundShared.IntercontextCommunication" Version="1.0.10" />
+        <PackageReference Include="PlaygroundShared.Api" Version="1.0.11" />
+        <PackageReference Include="PlaygroundShared.Application" Version="1.0.11" />
+        <PackageReference Include="PlaygroundShared.Configurations" Version="1.0.11" />
+        <PackageReference Include="PlaygroundShared.Domain" Version="1.0.11" />
+        <PackageReference Include="PlaygroundShared.Infrastructure.Core" Version="1.0.11" />
+        <PackageReference Include="PlaygroundShared.Infrastructure.EF" Version="1.0.11" />
+        <PackageReference Include="PlaygroundShared.Infrastructure.MongoDb" Version="1.0.11" />
+        <PackageReference Include="PlaygroundShared.IntercontextCommunication" Version="1.0.11" />
         <PackageReference Include="PlaygroundShared.IntercontextCommunication.RabbitMq" Version="1.0.11" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     </ItemGroup>

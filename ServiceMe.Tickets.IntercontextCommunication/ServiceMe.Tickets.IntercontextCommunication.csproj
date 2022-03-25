@@ -8,8 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="PlaygroundShared.Application" Version="1.0.9" />
-      <PackageReference Include="PlaygroundShared.IntercontextCommunication" Version="1.0.10" />
+      <PackageReference Include="PlaygroundShared.Api" Version="1.0.11" />
+      <PackageReference Include="PlaygroundShared.Application" Version="1.0.11" />
+      <PackageReference Include="PlaygroundShared.IntercontextCommunication" Version="1.0.11" />
     </ItemGroup>
 
     <ItemGroup>
